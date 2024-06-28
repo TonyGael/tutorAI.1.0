@@ -1,2 +1,2 @@
 # tutorAI.1.0
-Tutor AI
+Tutor AI v1.0
